@@ -24,7 +24,7 @@ This project is a simple CLI app using node, util, fs, path and inquirer to gene
 To install necessary dependencies, run the following command:
 
 ```
-Install node on your computer, nopen the app, run, npm i, and answer the prompts
+Install node on your computer, open the app, run, npm i, and answer the prompts
 ```
 
 ## Usage
